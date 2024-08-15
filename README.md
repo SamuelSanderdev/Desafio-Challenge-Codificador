@@ -18,7 +18,6 @@ link: https://desafio-challenge-codificador.vercel.app/
 <li>CSS (style.css) </li>
 <li>JavaScript (script.js) </li>
 <li>Contribuição </li>
-<li>Licença </li>
 </ul>
 
 # Visão Geral
