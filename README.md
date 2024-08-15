@@ -86,18 +86,19 @@ O arquivo style.css define a aparência e o layout da página. A seguir estão a
 
 ## Desktop
 
-<P><img src='./assets/codificador-full.png' width="25%" alt='imagem full codificador'></p>
+<P><img src='./assets/image-app/image-codificador-full.png' width="30%" alt='imagem full codificador'></p>
 
 ## Tablet
 
-<p><img src='./assets/codificador-parte-1-768px.png' width="20%" alt='codificador parte 1 768px'>
-
-<img src='./assets/codificador-parte-2-768px.png' width="20%" alt='codificador parte 2 768px'>
+<p><img src='./assets/image-app/image-codificador-tablet-1.png' width="20%" alt='codificador parte 1 768px'><br>
+<img src='./assets/image-app/image-codificador-tablet-2.png' width="20%" alt='codificador parte 2 768px'>
 </p>
 
 ## Mobile
 
-<p> <img src='./assets/codificador-375px.png' width="10%" alt='codificador mobile 375px'> </p>
+<p><img src='./assets/image-app/image-codificador-mobile-1.png' width="20%" alt='codificador mobile 480px'><br>
+<img src='./assets/image-app/image-codificador-mobile-2.png' width="20%" alt='codificador mobile 480px'>
+</p>
 
 # Como Usar
 

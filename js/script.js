@@ -32,7 +32,7 @@ function showValidationMessage(message) {
 
 function copyToClipboard(text) {
     navigator.clipboard.writeText(text).then(() => {
-        alert('Texto copiado!');
+        alert('Texto copiado com sucesso! Ao clicar em ok, a página será reiniciada.');
     });
 }
 
@@ -77,6 +77,7 @@ copyBtn.addEventListener('click', () => {
     const text = resultText.textContent;
     if (text) {
         copyToClipboard(text);
+        reloadPage();
     }
 });
 
