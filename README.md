@@ -202,7 +202,7 @@ O arquivo style.css define a aparência e o layout da página. A seguir estão a
 
 <img src='./assets/image-10.png' alt='copia texto'>
 
-<p>Adiciona um evento de clique ao botão de copiar, copiando o texto resultante para a área de transferência.</p>
+<p>Adiciona um evento de clique ao botão de copiar, copiando o texto resultante para a área de transferência e reinicia a página depois de clicado no ok do alert.</p>
 
 ### Evento para Atualização Inicial
 
