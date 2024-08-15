@@ -42,7 +42,7 @@ link: https://desafio-challenge-codificador.vercel.app/
 <li> Esquerda (container__left): Inclui um textarea para entrada de texto, uma área de validação para exibir mensagens de erro, e três botões para criptografar, descriptografar e recarregar a página.</li>
 </ul>
 <ul>
-<li>Esquerda (container__left): Inclui um textarea para entrada de texto, uma área de validação para exibir mensagens de erro, e três botões para criptografar, descriptografar e recarregar a página.</li>
+<li>Direita (container__right): Exibe o resultado da criptografia/descriptografia, uma imagem que aparece quando nenhum texto é inserido, e um botão para copiar o texto criptografado/descriptografado..</li>
 </ul>
 <li> Rodapé (footer): Contém informações de autoria e links para os perfis do GitHub e LinkedIn. </li>
 <br>
